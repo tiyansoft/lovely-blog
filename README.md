@@ -2,7 +2,7 @@
 
 # Lovely Blog HTML Template
 
-##page includes 
+## page includes 
 * index.html
 * blog.html
 * archive.html
